@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 I am a Computer Science student specializing in building intelligent, connected systems. My work bridges the gap between hardware and software, with a particular focus on IoT solutions and mobile application development.<br><br>🛠 Technical Skillset<br>Mobile & Web: Expert in building cross-platform apps using Flutter & Dart, with a focus on seamless UI/UX and efficient state management.<br><br>Hardware & Embedded: Proficient in ESP32 and Arduino ecosystems, integrating diverse sensor arrays for real-time monitoring and automation.<br><br>Backend & Cloud: Experienced in deploying Firebase (Firestore/Realtime Database) for scalable data synchronization and user authentication.<br><br>AI & Design: Leveraging LLMs for rapid prototyping and utilizing Adobe Creative Suite for professional graphic design and media production.
 
 
